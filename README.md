@@ -1,15 +1,16 @@
 ### Hi, I'm Gonzalo 👋
 
+### about me in code
 ```js
-const soyGonzalo = {
+const imGonzalo = {
   pronouns: "he" | "his",
-  code: [Javascript, PHP, HTML, CSS],
-  tools: [React, Node, Laravel],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node.js],
   bd: [MySql],
 }
 ```
 
-You can find me 🌎:
+### you can find me 🌎:
 - [Twitter](https://twitter.com/Gonzaleft11)
 - [Instagram](https://www.instagram.com/gonzaleft/)
 
