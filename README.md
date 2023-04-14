@@ -6,7 +6,7 @@ My name is Javier Gonzalo Arrayaran, I am a Front-end developer from Buenos Aire
 ### Technologies 💻
 
 ### Markdown
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,jest,sass,typescript,react,firebase,nodejs,vercel)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,jest,sass,typescript,react,nextjs,firebase,nodejs,vercel)](https://skills.thijs.gg)
 
 ### Socials 📱
 
