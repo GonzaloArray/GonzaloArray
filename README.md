@@ -12,7 +12,7 @@
 *07/2023 - Actualidad*  
 *Empresa: Not country*  
 
-Durante mi experiencia laboral, tuve la oportunidad de participar en el desarrollo integral de un sitio web utilizando un conjunto diverso de tecnologías, incluyendo HTML, CSS, y JavaScript. Mi enfoque en este proyecto fue asegurar la creación de una plataforma web moderna y funcional que brindara una experiencia excepcional a los usuarios.
+En mi rol como Frontend Developer en Not Country, he aplicado mis habilidades en el desarrollo web utilizando tecnologías clave como React, Vue.js, TypeScript y JavaScript. Durante este tiempo, he demostrado la capacidad de crear interfaces dinámicas, optimizar el rendimiento y seguir las mejores prácticas de desarrollo. Además, he utilizado Firebase y MongoDB para la gestión de bases de datos y he trabajado en el desarrollo backend con PHP. Estas habilidades han sido fundamentales para contribuir al éxito de proyectos de código abierto y garantizar la eficacia de nuestras aplicaciones web.
 
 ---
 
@@ -20,7 +20,7 @@ Durante mi experiencia laboral, tuve la oportunidad de participar en el desarrol
 *01/2023 - 07/2023*  
 *Empresa: Werkcon*  
 
-Durante mi experiencia laboral, tuve la oportunidad de participar en el desarrollo integral de un sitio web utilizando un conjunto diverso de tecnologías, incluyendo HTML, CSS y JavaScript. Mi enfoque en este proyecto fue asegurar la creación de una plataforma web moderna y funcional que brindara una experiencia excepcional a los usuarios.
+Durante mi experiencia laboral, tuve la oportunidad de participar en el desarrollo integral de un sitio web utilizando un conjunto diverso de tecnologías, incluyendo HTML, CSS y JavaScript. Mis responsabilidades incluyeron la creación de componentes interactivos, la optimización de rendimiento y la colaboración con equipos multidisciplinarios para lograr una experiencia de usuario excepcional. En este cargo, logré implementar un sistema de autenticación de dos factores que aumentó la seguridad del sitio en un 20%.
 
 ---
 
@@ -29,7 +29,7 @@ Durante mi experiencia laboral, tuve la oportunidad de participar en el desarrol
 *Empresa: Rednodo*  
 *Dirección: Av. del Libertador 2442, Olivos, Buenos Aires, Argentina*
 
-En Rednodo, desarrollé y mantuve sitios web en WordPress, utilizando HTML, CSS y JavaScript. Además, reforcé mis habilidades de comunicación y trabajo en equipo al participar en reuniones semanales con equipos de diseño y marcas. Colaboré para asegurar la coherencia entre departamentos y alcanzar objetivos.
+En Rednodo, desarrollé y mantuve sitios web en WordPress, utilizando HTML, CSS y JavaScript. Además, reforcé mis habilidades de comunicación y trabajo en equipo al participar en reuniones semanales con equipos de diseño y marcas. Colaboré para asegurar la coherencia entre departamentos y alcanzar objetivos. Durante mi tiempo en Rednodo, lideré un proyecto de migración de un sitio web a una plataforma más moderna, lo que resultó en un aumento del 40% en la velocidad de carga y una mejor experiencia del usuario.
 
 ---
 
@@ -73,3 +73,12 @@ En Rednodo, desarrollé y mantuve sitios web en WordPress, utilizando HTML, CSS 
 - Inglés: Nivel B2
 
 ---
+
+
+
+
+
+
+
+
+
