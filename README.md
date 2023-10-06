@@ -47,9 +47,9 @@ En Rednodo, desarrollé y mantuve sitios web en WordPress, utilizando HTML, CSS 
 
 **Habilidades Técnicas**
 
-- Javascript, Vue.js, Vuex
-- TypeScript, Bootstrap, CSS, Sass
-- UI/UX, HTML5, Material UI, PHP, Laravel
+- Javascript, Vue.js, React, TypeScript
+- Bootstrap, CSS, Sass, Material UI, Tailwind CSS.
+- PHP, Laravel, Express.js
 
 **Certificaciones**
 
