@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Visionary AI engineer and entrepreneur building the next generation of autonomous intelligent systems. Specializing in AI agent architectures that can reason, plan, and execute with human-like intelligence. Currently developing [Your AI Platform], an AI orchestration system that enables multi-agent collaboration to solve complex problems autonomously.
+Visionary AI engineer and entrepreneur building the next generation of autonomous intelligent systems. Specializing in AI agent architectures that can reason, plan, and execute with human-like intelligence. Currently developing Laburen.com, an AI orchestration system that enables multi-agent collaboration to solve complex problems autonomously.
 
 - 🔭 Previously: Built production ML systems at Laburen.com.
 - 🌱 Currently exploring: Emergent behaviors in multi-agent systems and AGI alignment
