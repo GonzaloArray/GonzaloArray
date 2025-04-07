@@ -26,8 +26,7 @@ const skills = {
 
 ## 🏆 Achievements
 
-- 🚀 Developed a multi-agent system that reduced decision-making time by 75% in [specific domain]
-- 💼 Created an AI research framework used by [X] researchers/companies worldwide
+- 🚀 Developed a multi-agent system that reduced decision-making time by 75% in Laburen.com
 - 🌟 Published research on emergent behaviors in collaborative AI systems
 - 🧠 Built an autonomous agent platform capable of completing complex workflows without human intervention
 
