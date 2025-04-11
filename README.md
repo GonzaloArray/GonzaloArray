@@ -48,5 +48,5 @@ Beyond code, I'm passionate about the social impact of technology:
 ## 📫 Contact
 
 - **Email**: gonzalo.arrayaran@gmail.com
-- **LinkedIn**: [linkedin.com/in/gonzaloarrayaran](https://www.linkedin.com/in/gonzalo-arrayaran/)
-- **Twitter**: [@gonzalodev](https://x.com/gonzarray)
+- **LinkedIn**: [linkedin.com/in/gonzalo-arrayaran](https://www.linkedin.com/in/gonzalo-arrayaran/)
+- **Twitter**: [@gonzarray](https://x.com/gonzarray)
