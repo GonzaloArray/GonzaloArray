@@ -1,36 +1,52 @@
-# 👋 Hi, I'm GonzaloArray
+# Gonzalo Arrayaran
+### Full-Stack Engineer & AI Systems Architect
 
-> AI Engineer & Tech Entrepreneur | Building Autonomous Intelligent Systems
+## 👋 About Me
 
-## 🚀 About Me
+I'm a full-stack engineer and AI systems architect with experience in building and deploying advanced AI agents in real production environments. I'm passionate about creating technology that solves real problems, especially in emerging markets where the impact can be transformative.
 
-Visionary AI engineer and entrepreneur building the next generation of autonomous intelligent systems. Specializing in AI agent architectures that can reason, plan, and execute with human-like intelligence. Currently developing Laburen.com, an AI orchestration system that enables multi-agent collaboration to solve complex problems autonomously.
+## 💻 Technical Expertise
 
-- 🔭 Previously: Built production ML systems at Laburen.com.
-- 🌱 Currently exploring: Emergent behaviors in multi-agent systems and AGI alignment
-- 💡 Inspired by: Cognitive architectures, swarm intelligence, and human-AI collaboration
-- 🎯 Goal: Create AI agents that augment human capabilities and solve humanity's most pressing challenges
+My experience combines full-stack development with ML/NLP integration, allowing me to design complete systems from infrastructure to user interface:
 
-## 💻 Tech Stack
+- **Frontend Development**: React, Vue, TypeScript, TailwindCSS
+- **Backend Development**: Node.js, Python, Next.js
+- **AI & ML**: LLM integration, agent orchestration systems, model fine-tuning
+- **Databases**: PostgreSQL, Redis, MongoDB
+- **DevOps**: AWS, Docker, Azure, CI/CD pipelines
 
-```javascript
-const skills = {
-  aiCore: ['LLM Fine-tuning', 'Transformer Architecture', 'ML Ops', 'NLP/NLU'],
-  aiAgents: ['Multi-agent Systems', 'Autonomous Agents', 'LangChain', 'AutoGPT'],
-  frontend: ['React', 'TypeScript', 'Next.js', 'WebAssembly', 'Three.js'],
-  backend: ['Python', 'FastAPI', 'Node.js', 'Vector Databases', 'GraphQL'],
-  mlOps: ['Ray', 'Kubernetes', 'AWS SageMaker', 'NVIDIA Triton', 'MLflow'],
-  research: ['Reinforcement Learning', 'RAG', 'Multimodal AI', 'Agent Simulation']
-};
-```
+## 🔨 Featured Projects
 
-## 🏆 Achievements
+I've led the development of:
 
-- 🚀 Developed a multi-agent system that reduced decision-making time by 75% in Laburen.com
-- 🌟 Published research on emergent behaviors in collaborative AI systems
-- 🧠 Built an autonomous agent platform capable of completing complex workflows without human intervention
+- **AI orchestration engines** that operate across multiple channels (WhatsApp, Instagram, CRMs, ERPs)
+- **Natural language processing systems** for business applications
+- **No-code platforms** for training and deploying AI agents
+- **Task management applications** with a focus on UX/UI
+- **Open-source educational platforms**
 
-## 📫 Let's Connect
+## 🌱 Social Commitment
 
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/gonzalo-arrayaran/))
-- [Twitter]([https://twitter.com/yourusername](https://x.com/gonzarray))
+Beyond code, I'm passionate about the social impact of technology:
+
+- Organized community coding workshops that taught programming skills to over 100 young people in underserved areas
+- Actively contribute to open-source projects focused on education
+- Developed a donation platform for a local NGO
+
+## 🏆 Recognitions
+
+- 1st place in local software competition (task management app)
+- Publication in symposium on technology & education, focused on improving usability in educational platforms
+- Recognition for social impact through tech education initiatives
+
+## 📚 Education
+
+- Systems Engineering, University of Buenos Aires
+- Specialization in Artificial Intelligence and Machine Learning
+- Ongoing training in distributed systems architectures
+
+## 📫 Contact
+
+- **Email**: gonzalo.arrayaran@gmail.com
+- **LinkedIn**: [linkedin.com/in/gonzaloarrayaran](https://www.linkedin.com/in/gonzalo-arrayaran/)
+- **Twitter**: [@gonzalodev](https://x.com/gonzarray)
